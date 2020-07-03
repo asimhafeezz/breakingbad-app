@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11e183ff4e0da6ed05d204e1fb8fd579",
+    "revision": "dfd331f56f968a149ba8e7eaf52fc72f",
     "url": "/breakingbad-app/index.html"
   },
   {
