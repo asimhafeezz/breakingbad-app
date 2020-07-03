@@ -1,9 +1,8 @@
-https://asimhyff.github.io/breakingbad-app/
-
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
+and then
 ### `npm start`
 
 Runs the app in the development mode.<br />
