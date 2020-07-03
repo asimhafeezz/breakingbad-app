@@ -64,7 +64,7 @@ input[type='text'] {
 .cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .card {
@@ -72,7 +72,6 @@ input[type='text'] {
   background-color: transparent;
   height: 300px;
   perspective: 1000px;
-  margin:4rem;
 }
 
 .card h1 {
