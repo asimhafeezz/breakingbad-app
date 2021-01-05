@@ -1,8 +1,6 @@
 ## Available Scripts
-
-In the project directory, you can run:
+A weekend project built using reactjs which let you see all the Breaking Bad Characters and search them.
 ### `npm install`
-and then
 ### `npm start`
 
 Runs the app in the development mode.<br />
