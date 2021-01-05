@@ -1,5 +1,6 @@
-## Available Scripts
+## Breaking Bad App
 A weekend project built using reactjs which let you see all the Breaking Bad Characters and search them.
+## Available Scripts
 ### `npm install`
 ### `npm start`
 
